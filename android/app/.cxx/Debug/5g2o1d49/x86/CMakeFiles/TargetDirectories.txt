@@ -1,0 +1,2 @@
+D:/yoga/pranayama_-main/android/app/.cxx/Debug/5g2o1d49/x86/CMakeFiles/edit_cache.dir
+D:/yoga/pranayama_-main/android/app/.cxx/Debug/5g2o1d49/x86/CMakeFiles/rebuild_cache.dir
